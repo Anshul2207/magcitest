@@ -1,0 +1,2 @@
+# magcitest
+Testing MagnumCI
